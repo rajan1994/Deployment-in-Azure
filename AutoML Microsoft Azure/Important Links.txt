@@ -1,0 +1,9 @@
+Imp. Links
+
+https://github.com/solliancenet/tech-immersion-data-ai/tree/master/ai-exp3
+
+Algorithms - > https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms Cheat sheet -> https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
+
+GitHub -> https://github.com/MicrosoftLearning/DP100
+
+Notebook2-> https://github.com/solliancenet/tech-immersion-data-ai/blob/master/lab-files/ai/3/predict-battery-life-with-AML.ipynb

@@ -1,0 +1,23 @@
+2020-09-24 16:39:57.621 - DEBUG - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:169 - Skipping DNN packages since enable_dnn=False.
+2020-09-24 16:39:57.621 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package azureml-train-automl missing from dependencies file.
+2020-09-24 16:39:57.621 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: azureml-train-automl==1.14.0.*
+2020-09-24 16:39:57.622 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package pandas missing from dependencies file.
+2020-09-24 16:39:57.623 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: pandas==0.25.1
+2020-09-24 16:39:57.623 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package psutil missing from dependencies file.
+2020-09-24 16:39:57.623 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: psutil>5.0.0,<6.0.0
+2020-09-24 16:39:57.624 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package scikit-learn missing from dependencies file.
+2020-09-24 16:39:57.624 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: scikit-learn==0.22.1
+2020-09-24 16:39:57.625 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package numpy missing from dependencies file.
+2020-09-24 16:39:57.625 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: numpy~=1.18.0
+2020-09-24 16:39:57.625 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package py-xgboost missing from dependencies file.
+2020-09-24 16:39:57.625 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: py-xgboost<=0.90
+2020-09-24 16:39:57.626 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package inference-schema missing from dependencies file.
+2020-09-24 16:39:57.626 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package fbprophet missing from dependencies file.
+2020-09-24 16:39:57.626 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:196 - Using pinned version: fbprophet==0.5
+2020-09-24 16:39:57.627 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:190 - Package setuptools-git missing from dependencies file.
+2020-09-24 16:39:57.627 - INFO - 25213 - azureml.train.automl._azureautomlclient.modify_run_configuration:200 - Using installed version: setuptools-git==1.2
+2020-09-24 16:40:00.305 - INFO - 25213 - azureml.train.automl._azureautomlclient._validate_input:614 - Validation service found the data has no errors.
+2020-09-24 16:40:00.306 - INFO - 25213 - azureml.train.automl._azureautomlclient._create_parent_run_for_remote:493 - Start creating parent run.
+2020-09-24 16:40:00.969 - INFO - 25213 - azureml.train.automl._azureautomlclient._create_parent_run_for_remote:513 - [ParentRunID:AutoML_44b40174-81cc-406c-9424-df0569de9f92] Remote run using input X and y.
+2020-09-24 16:40:01.195 - INFO - 25213 - azureml.train.automl._azureautomlclient._create_parent_run_for_remote:526 - Parent Run ID: AutoML_44b40174-81cc-406c-9424-df0569de9f92
+2020-09-24 16:40:01.196 - INFO - 25213 - azureml.train.automl._azureautomlclient._fit_remote_core:455 - Starting a snapshot run (snapshot_id : None)
